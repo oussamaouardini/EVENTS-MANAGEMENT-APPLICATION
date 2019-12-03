@@ -1,0 +1,186 @@
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.register.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Tickets.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+D:\EST 2019-2020\2ème année\2ème année\S3\BD-C#\BD avancée\MiniProjet\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\MiniProjectFinal (2)\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\final one\lekher\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Confirmation.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\oub\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Confirmation.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Confirmation.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\New folder\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe.config
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\bin\Debug\MiniProjectFinal.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Confirmation.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreateEvent5.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.CreditCard.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.LogIn.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.message.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.home.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.Registre.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.SignUp.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.TicketRe.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.exe
+C:\Users\oussama ouardini\Desktop\New folder - Copy\la fin\MiniProjectFinal\MiniProjectFinal\obj\Debug\MiniProjectFinal.pdb

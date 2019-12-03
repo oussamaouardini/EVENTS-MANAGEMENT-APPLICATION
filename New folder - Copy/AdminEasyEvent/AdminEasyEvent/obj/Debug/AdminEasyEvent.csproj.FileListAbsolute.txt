@@ -1,0 +1,258 @@
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\sparo\source\repos\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+F:\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+F:\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\sparo\Desktop\2ème année\S3\BD-C#\BD avancée\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.msgbx.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okform.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okannuler.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.UserControl1.resources
+C:\Users\oussama ouardini\Downloads\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.learninga.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.msgbx.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.learninga.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okannuler.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okform.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.UserControl1.resources
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.msgbx.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.learninga.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okannuler.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okform.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.UserControl1.resources
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\New folder\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe.config
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\AdminEasyEvent.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.dll
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.xml
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csprojAssemblyReference.cache
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.AddTicket.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Approve.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.clickEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent2.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent3.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.CreatEvent4.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Dashboard.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Form1.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.msgbx.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Grraph.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.homeUC.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.learninga.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okannuler.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.okform.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.Properties.Resources.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.register.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.remove.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.Tickets.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\MiniProjectFinal.UserControl1.resources
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.GenerateResource.cache
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.csproj.CopyComplete
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.exe
+C:\Users\oussama ouardini\Desktop\New folder - Copy\AdminEasyEvent\AdminEasyEvent\obj\Debug\AdminEasyEvent.pdb
